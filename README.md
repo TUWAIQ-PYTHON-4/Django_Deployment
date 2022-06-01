@@ -9,3 +9,7 @@ Use what you learned about Heroku to deploy the following:
 
 # Has been done step one the link for project Django_Deployment;
 https://tuwaiq-django1.herokuapp.com/
+
+
+# Has been done step two the link for my project;
+https://magic-brains-library.herokuapp.com/
